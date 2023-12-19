@@ -17,3 +17,7 @@ step3: follow the instruction to build apk file using colab :https://colab.resea
 
 step1: install all dependencies using cmd: pip install -r requirements.txt
 step3: run cmd: python main.py file to start monitoring
+
+
+# Project Demonstration
+[https://youtu.be/TzO3gwJRiP8](video with apk file that can be run on mobile)
