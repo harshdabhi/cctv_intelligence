@@ -21,3 +21,8 @@ step3: run cmd: python main.py file to start monitoring
 
 # Project Demonstration
 [video with apk file that can be run on mobile](https://youtu.be/TzO3gwJRiP8)
+
+[![Watch the video](https://img.youtube.com/vi/TzO3gwJRiP8/hqdefault.jpg)](https://www.youtube.com/embed/TzO3gwJRiP8)
+
+[<img src="https://img.youtube.com/vi/TzO3gwJRiP8/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/TzO3gwJRiP8)
